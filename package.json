@@ -11,8 +11,10 @@
   "author": "Jason Deng",
   "license": "ISC",
   "dependencies": {
+    "raven-js": "^3.4.0",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "react-router": "^2.6.1"
   },
   "devDependencies": {
     "babel-core": "^6.13.2",
